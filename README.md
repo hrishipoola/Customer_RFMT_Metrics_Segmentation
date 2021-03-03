@@ -1,7 +1,5 @@
 # Customer RFMT Metrics & Segmentation
 
-## 1. Introduction
-
 Today, we'll construct recency, frequency, monetary value, and tenure (RFMT) metrics and segments using Brazilian ecommerce marketplace [Olist's sales transactions data](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_orders_dataset.csv) dating from October 2016 to October 2018. 
 
 RFMT metrics can be used to segment customers in order to identify which customers are responsive to marketing, engaged, contribute to churn, high spenders vs. low-value purchasers, or have upselling or cross-selling potential. Understanding segments can help us better tailor product, sales, and marketing activities and investments. For example, at-risk customers may have high monetary value and frequency, but weak recency and could be targeted with promotions and renewals. In our case, we'll define our metrics as:
